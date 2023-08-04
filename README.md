@@ -1,4 +1,4 @@
-[DEMO LINK](https://main--jazzy-pudding-763d76.netlify.app/)
+[DEMO LINK](https://subtle-centaur-b9c6ad.netlify.app/)
 
 ## Landing Page
 
