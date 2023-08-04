@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap");
+
+h1,
+h2,
+h3,
+ul,
+p {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
+h2 {
+  color: #bdbdbd;
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 64px;
+}
+
+@media (min-width: 768px) {
+  h2 {
+    font-size: 44px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1240px) {
+  h2 {
+    font-size: 64px;
+    margin-bottom: 20px;
+    line-height: 64px;
+  }
+}
+
+html,
+h2,
+input,
+textarea,
+p,
+span,
+div,
+h1,
+h3,
+a,
+button,
+li {
+  font-family: "Hind", sans-serif;
+}
