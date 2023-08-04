@@ -35,7 +35,6 @@ const boxShadow = computed(() => {
   padding: 15px 20px;
   box-sizing: border-box;
   border: none;
-  padding: 0;
   cursor: pointer;
   transition: 0.2s;
 
